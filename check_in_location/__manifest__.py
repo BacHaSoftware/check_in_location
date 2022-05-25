@@ -21,7 +21,7 @@
         },
     },
     'license': 'LGPL-3',
-
+    'images': ['static/description/banner.gif'],
     # Author
     'author': 'Bac Ha Software',
     'website': 'https://bachasoftware.com',
