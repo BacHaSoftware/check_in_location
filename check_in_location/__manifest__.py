@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
 {
-    'name': "BH My Attendance",
+    'name': "Attendances Checkin Location",
     'version': '15.0.1.2',
     'summary': 'Check-in with location.',
-    'category': 'Other',
+    'category': 'Human Resources/Attendances',
     'description': """Check-in with location.""",
     "depends": ['web', 'hr_attendance'],
     'data': [
