@@ -1,4 +1,4 @@
-odoo.define('check_in_location.my_attendances', function (require) {
+odoo.define('bhs_checkin_location.my_attendances', function (require) {
 "use strict";
 
 var AbstractAction = require('web.AbstractAction');

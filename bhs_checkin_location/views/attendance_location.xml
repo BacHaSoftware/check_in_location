@@ -37,7 +37,7 @@
         </record>
 
         <menuitem id="menu_hr_attendance_config" name="Configuration" parent="hr_attendance.menu_hr_attendance_settings" sequence="1" action="hr_attendance.action_hr_attendance_settings" groups="hr_attendance.group_hr_attendance_manager"/>
-        <menuitem id="menu_hr_attendance_location_config" name="Attendance Location Config" parent="hr_attendance.menu_hr_attendance_settings" sequence="2" action="check_in_location.hr_attendance_location_action" groups="hr_attendance.group_hr_attendance_manager"/>
+        <menuitem id="menu_hr_attendance_location_config" name="Attendance Location Config" parent="hr_attendance.menu_hr_attendance_settings" sequence="2" action="bhs_checkin_location.hr_attendance_location_action" groups="hr_attendance.group_hr_attendance_manager"/>
     </data>
 
 </odoo>
