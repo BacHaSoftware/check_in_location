@@ -13,11 +13,11 @@
     ],
     "assets": {
         'web.assets_backend': [
-            '/bhs_check_in_location/static/src/scss/my_attendances.scss',
-            '/bhs_check_in_location/static/src/js/my_attendances.js',
+            '/bhs_checkin_location/static/src/scss/my_attendances.scss',
+            '/bhs_checkin_location/static/src/js/my_attendances.js',
         ],
         'web.assets_qweb': {
-            '/bhs_check_in_location/static/src/xml/my_attendances.xml',
+            '/bhs_checkin_location/static/src/xml/my_attendances.xml',
         },
     },
     'license': 'LGPL-3',
