@@ -2,9 +2,9 @@
 {
     'name': "Attendances Checkin Location",
     'version': '15.0.1.2',
-    'summary': 'Check-in with location.',
+    'summary': 'A product of Bac Ha Software allows employees to check-in from many different working locations such as: The company, home or other places such as outdoor locations.',
     'category': 'Human Resources/Attendances',
-    'description': """Check-in with location.""",
+    'description': """A product of Bac Ha Software allows employees to check-in from many different working locations such as: The company, home or other places such as outdoor locations.""",
     "depends": ['web', 'hr_attendance'],
     'data': [
         'security/ir.model.access.csv',
@@ -13,11 +13,11 @@
     ],
     "assets": {
         'web.assets_backend': [
-            '/check_in_location/static/src/scss/my_attendances.scss',
-            '/check_in_location/static/src/js/my_attendances.js',
+            '/bhs_check_in_location/static/src/scss/my_attendances.scss',
+            '/bhs_check_in_location/static/src/js/my_attendances.js',
         ],
         'web.assets_qweb': {
-            '/check_in_location/static/src/xml/my_attendances.xml',
+            '/bhs_check_in_location/static/src/xml/my_attendances.xml',
         },
     },
     'license': 'LGPL-3',
