@@ -1,5 +1,6 @@
 from odoo import models, fields, tools, api
 
+
 class HrAttendanceLocation(models.Model):
     _name = 'hr.attendance.location'
 
