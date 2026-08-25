@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 {
-    'name': "Attendances Checkin Location",
+    'name': "Multi‑Location Attendance Check‑In",
     'version': '16.0.1.2',
     'summary': 'Check-in with location.',
     'category': 'Human Resources/Attendances',
