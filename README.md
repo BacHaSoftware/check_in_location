@@ -8,7 +8,7 @@
     <img src="/bhs_checkin_location/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Attendances Checkin Location</h3>
+  <h3 align="center">Multi‑Location Attendance Check‑In</h3>
 
   <p align="center">
     A product of Bac Ha Software allows employees to check-in from many different working locations such as: The company, home or other places such as outdoor locations.<br />
