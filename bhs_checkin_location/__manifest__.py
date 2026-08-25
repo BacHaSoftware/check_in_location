@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 {
-    'name': "Attendances Checkin Location",
+    'name': "Multi‑Location Attendance Check‑In",
     'version': '15.0.1.2',
     'summary': 'A product of Bac Ha Software allows employees to check-in from many different working locations such as: The company, home or other places such as outdoor locations.',
     'category': 'Human Resources/Attendances',
@@ -21,7 +21,7 @@
         },
     },
     'license': 'LGPL-3',
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     # Author
     'author': 'Bac Ha Software',
     'website': 'https://bachasoftware.com',
